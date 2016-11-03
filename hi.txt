@@ -1,2 +1,2 @@
 yo!
-python rules!
+js rules!
